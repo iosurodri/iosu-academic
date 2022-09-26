@@ -73,5 +73,3 @@ highlight_name: true
 I am a researcher of artificial intelligence at Grupo de Inteligencia Artificial y Razonamiento Aproximado (GIARA) in the Universidad Pública de Navarra (UPNA). My research interests include neural networks, computer vision, aggregation theory and fuzzy logic. Outside of my work, I love reading (more like *listening* to audiobooks lately...), playing tabletop RPGs and cooking.
 
 I am currently working in my PhD thesis, related with the fusion of data inside Convolutional Neural Networks.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -11,7 +11,7 @@ role: PHD student on Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universidad Pública de Navarra (UPNA)
-    url: https://www.unavarra.es/
+    url: http://www.unavarra.es/pdi?uid=811655
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Convolutional Neural Networks, aggregation theory and fuzzy logic.

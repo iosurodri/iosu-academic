@@ -15,7 +15,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: More info
+    name: More
     url: https://github.com/iosurodri/CombPool
 url_code: ''
 url_pdf: ''

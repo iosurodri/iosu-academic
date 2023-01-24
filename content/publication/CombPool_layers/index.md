@@ -6,20 +6,20 @@ title: 'Replacing pooling functions in Convolutional Neural Networks by linear c
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  # - Julio Lafuente
-  # - Santiago Regivan
-  # - Graçaliz Dimuro
-  # - Francisco Herrero
-  # - Humberto Bustince
+  - Julio Lafuente
+  - Santiago Regivan
+  - Graçaliz Dimuro
+  - Francisco Herrero
+  - Humberto Bustince
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  # - 'Equal contribution'
-  # - 'Equal contribution'
-  # - 'Equal contribution'
-  # - 'Equal contribution'
-  # - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2023-01-25T00:00:00Z'
 doi: ''
@@ -81,5 +81,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "
+slides: ""
 ---

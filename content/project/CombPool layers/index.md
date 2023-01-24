@@ -1,6 +1,6 @@
 ---
 title: CombPool layers
-summary: A github repository with the implementation for the paper "Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions".
+summary: A github repository with the implementation for the paper Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions.
 tags:
   - Deep Learning
 date: '2023-01-24T15:39:00Z'

@@ -34,7 +34,11 @@ image:
   caption: ''
   focal_point: Right
 
-links: ''
+# links:
+#   - icon: ''
+#     icon_pack: ''
+#     name: ''
+#     url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''

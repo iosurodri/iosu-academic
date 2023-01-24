@@ -13,8 +13,7 @@ address:
   country: Spain
 
 summary: Charla divulgativa dirigida a estudiantes de 4º de ESO en la que explicaremos qué son las redes neuronales, cómo funcionan y de qué formas están afectándonos cada vez más.
-abstract: La última década nos ha dado hitos impresionantes en el campo de la Inteligencia Artificial. Programas que han resuelto problemas abiertos de la medicina como el plegado de proteínas, ordenadores capaces de ganar a los mejores jugadores de juegos tan complejos como el GO y el Starcraft, o sistemas que “pintan” cuadros al estilo del pintor que les pidamos. Detrás de todos estos avances se esconden las llamadas “redes neuronales”, algoritmos que “aprenden” de experiencias pasadas para llevar a cabo tareas tan variadas como estas, entre muchas otras.
-En esta charla aprenderemos qué tienen en común todas estas herramientas, cómo funcionan y cómo todos nosotros podemos hacer uso de muchas de ellas de manera sencilla.
+abstract: La última década nos ha dado hitos impresionantes en el campo de la Inteligencia Artificial. Programas que han resuelto problemas abiertos de la medicina como el plegado de proteínas, ordenadores capaces de ganar a los mejores jugadores de juegos tan complejos como el GO y el Starcraft, o sistemas que “pintan” cuadros al estilo del pintor que les pidamos. Detrás de todos estos avances se esconden las llamadas “redes neuronales”, algoritmos que “aprenden” de experiencias pasadas para llevar a cabo tareas tan variadas como estas, entre muchas otras. En esta charla aprenderemos qué tienen en común todas estas herramientas, cómo funcionan y cómo todos nosotros podemos hacer uso de muchas de ellas de manera sencilla.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

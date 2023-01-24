@@ -6,20 +6,20 @@ title: 'Replacing pooling functions in Convolutional Neural Networks by linear c
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Julio Lafuente
-  - Santiago Regivan
-  - Graçaliz Dimuro
-  - Francisco Herrero
-  - Humberto Bustince
+  # - Julio Lafuente
+  # - Santiago Regivan
+  # - Graçaliz Dimuro
+  # - Francisco Herrero
+  # - Humberto Bustince
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
+  # - 'Equal contribution'
 
 date: '2023-01-25T00:00:00Z'
 doi: ''
@@ -37,10 +37,10 @@ publication_types: ['2']
 publication: In *Neural Networks*
 publication_short: In *Neural Netw.*
 
-abstract: Traditionally, Convolutional Neural Networks make use of the maximum or arithmetic mean in order to reduce the features extracted by convolutional layers in a downsampling process known as pooling. However, there is no strong argument to settle upon one of the two functions and, in practice, this selection turns to be problem dependent. Further, both of these options ignore possible dependencies among the data. We believe that a combination of both of these functions, as well as of additional ones which may retain different information, can benefit the feature extraction process. In this work, we replace traditional pooling by several alternative functions. In particular, we consider linear combinations of order statistics and generalizations of the Sugeno integral, extending the latter’s domain to the whole real line and setting the theoretical base for their application. We present an alternative pooling layer based on this strategy which we name “CombPool” layer. We replace the pooling layers of three different architectures of increasing complexity by CombPool layers, and empirically prove over multiple datasets that linear combinations outperform traditional pooling functions in most cases. Further, combinations with either the Sugeno integral or one of its generalizations usually yield the best results, proving a strong candidate to apply in most architectures.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: ''
 
 tags: [Information Fusion, Convolutional Neural Networks]
 

@@ -42,7 +42,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [Information Fusion, Convolutional Neural Networks]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -74,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - CombPool-layers
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

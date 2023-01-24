@@ -1,5 +1,6 @@
 ---
-title: ESTYLF2022
+title: Funciones de pooling basadas en Penalty aplicadas a la reducción de características en Redes Neuronales
+Convolucionales
 
 event: ESTYLF22
 event_url: https://eventos.uclm.es/78225/detail/xxi-congreso-espanol-sobre-tecnologias-y-logica-fuzzy.html

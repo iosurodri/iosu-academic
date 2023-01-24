@@ -22,7 +22,7 @@ date_end: '2022-09-04T21:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-01-24T00:00:00Z'
+publishDate: '2023-01-23T00:00:00Z'
 
 authors: []
 tags: [Information Fusion, Deep Learning]

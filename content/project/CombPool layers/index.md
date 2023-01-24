@@ -1,22 +1,22 @@
 ---
-title: CombPool layers
-summary: A github repository with the implementation for the paper "Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions".
+title: Example Project
+summary: An example of using the in-built project page.
 tags:
   - Deep Learning
-date: '2023-01-24T15:39:00Z'
+date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Working example of a CombPool layer
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: github
+  - icon: twitter
     icon_pack: fab
-    name: More
-    url: https://github.com/iosurodri/CombPool
+    name: Test
+    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ''
+slides: example
 ---
 
 This project implements CombPool layer, a new pooling layer that enables the linear combination of different pooling functions, generating increasing functions as a result. Implementation for the paper: *Rodriguez-Martinez, I., Lafuente, J., Santiago, R. H., Dimuro, G. P., Herrera, F., & Bustince, H. (2022). Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions. Neural Networks, 152, 380-393.*

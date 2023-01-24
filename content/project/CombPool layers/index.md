@@ -30,7 +30,7 @@ url_video: ''
 slides: ""
 ---
 
-This project implements CombPool layer, a new pooling layer that enables the linear combination of different pooling functions, generating increasing functions as a result. Implementation for the paper: *Rodriguez-Martinez, I., Lafuente, J., Santiago, R. H., Dimuro, G. P., Herrera, F., & Bustince, H. (2022). Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions. Neural Networks, 152, 380-393.*
+This project implements CombPool layer, a new pooling layer that enables the linear combination of different pooling functions, generating increasing functions as a result. Implementation for the paper: ![https://www.sciencedirect.com/science/article/pii/S0893608022001605](*Rodriguez-Martinez, I., Lafuente, J., Santiago, R. H., Dimuro, G. P., Herrera, F., & Bustince, H. (2022). Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions. Neural Networks, 152, 380-393.*)
 
 Documentation is available in English and Spanish: https://github.com/iosurodri/CombPool
 

@@ -42,7 +42,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [Information Fusion]
+tags: [Information Fusion, Deep Learning]
 
 # Display this page in the Featured widget?
 featured: true

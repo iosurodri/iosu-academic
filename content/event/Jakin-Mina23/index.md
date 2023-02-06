@@ -60,6 +60,6 @@ projects:
   - []
 ---
 
-{{% staticref "media/" "newtab" %}}
+{{% staticref "media/Redes neuronales.pptx" "newtab" %}}
 Slides
 {{% /staticref %}}

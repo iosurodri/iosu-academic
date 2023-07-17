@@ -21,7 +21,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-06-21T00:00:00Z'
+date: '2023-06-21T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.inffus.2023.101893'
 
 # Schedule page publish date (NOT publication's date).

@@ -1,5 +1,5 @@
 ---
-title: (a. b)-grouping pooling
+title: (a, b)-grouping pooling
 summary: A github repository with the implementation for the paper "Generalizing max pooling via (a, b)-grouping functions for Convolutional Neural Networks".
 tags:
   - Deep Learning

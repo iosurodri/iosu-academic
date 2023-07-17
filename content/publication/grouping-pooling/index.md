@@ -1,5 +1,5 @@
 ---
-title: 'Replacing pooling functions in Convolutional Neural Networks by linear combinations of increasing functions'
+title: 'Generalizing max pooling via (a, b)-grouping functions for Convolutional Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -60,5 +60,5 @@ projects:
   - []
 ---
 
-[https://docs.google.com/presentation/d/1Zl9lfl5d7vDTXnZBB8vM9yVRBsLvAWjN/edit?usp=sharing&ouid=113431220914915807192&rtpof=true&sd=true](Slides)
+[Slides](https://docs.google.com/presentation/d/1Zl9lfl5d7vDTXnZBB8vM9yVRBsLvAWjN/edit?usp=sharing&ouid=113431220914915807192&rtpof=true&sd=true)
 

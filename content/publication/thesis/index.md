@@ -18,7 +18,7 @@ author_notes:
   - 'Director'
 
 date: '2024-10-11T00:00:00Z'
-doi: 'doi.org/10.48035/Tesis/2454/52294'
+doi: 'https://doi.org/10.48035/Tesis/2454/52294'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-10-11T00:00:00Z'

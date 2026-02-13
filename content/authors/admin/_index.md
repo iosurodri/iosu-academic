@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Universidad Pública de Navarra
-      year: 2020-
+      year: 2020-2024
     - course: MEng in Computer Science
       institution: Universidad Pública de Navarra
       year: 2018-2020
